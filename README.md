@@ -16,5 +16,6 @@ Please report any security issues or bugs to product@opensac.org.
 
 ## Resources
 
-- [Documentation repository](https://github.com/opensacorg/api-wicit-doc)
+- [WICit website repository](https://github.com/opensacorg/wicit)
+- [WICit documentation repository](https://github.com/opensacorg/api-wicit-doc)
 - [Contributing guide](.github/CONTRIBUTING.md)
